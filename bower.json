@@ -1,0 +1,22 @@
+{
+  "name": "bostage.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bostage/bostage.github.io",
+  "authors": [
+    "Qihong <qihong@speta.org>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.1",
+    "platform": "Polymer/platform#~0.4.2",
+    "polymer-elements": "Polymer/polymer-elements#~0.3.0",
+    "polymer-ui-elements": "Polymer/polymer-ui-elements#~0.3.0"
+  }
+}
